@@ -16,6 +16,6 @@
     "arc-vite": "^1.2.6",
     "compression": "^1.8.1",
     "express": "^5.1.0",
-    "marko": "^6.0.43"
+    "marko": "^6.0.52"
   }
 }

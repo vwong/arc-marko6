@@ -4,18 +4,18 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "marko-run build src/index.ts",
-    "dev": "marko-run dev src/index.ts",
-    "preview": "marko-run preview src/index.ts",
+    "build": "marko-run build src/index.js",
+    "dev": "marko-run dev src/index.js",
+    "preview": "marko-run preview src/index.js",
     "start": "node dist/index.mjs"
   },
   "dependencies": {
     "@marko/run": "^0.8.0",
     "@marko/run-adapter-node": "^2.0.3",
     "arc-server": "^3.1.1",
-    "arc-vite": "^1.2.7",
+    "arc-vite": "^1.2.6",
     "compression": "^1.8.1",
     "express": "^5.1.0",
-    "marko": "^6.0.69"
+    "marko": "^6.0.64"
   }
 }

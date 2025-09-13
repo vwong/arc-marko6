@@ -13,9 +13,9 @@
     "@marko/run": "^0.8.0",
     "@marko/run-adapter-node": "^2.0.3",
     "arc-server": "^3.1.1",
-    "arc-vite": "^1.2.6",
+    "arc-vite": "^1.2.7",
     "compression": "^1.8.1",
     "express": "^5.1.0",
-    "marko": "^6.0.64"
+    "marko": "^6.0.69"
   }
 }

@@ -5,6 +5,6 @@ export default defineConfig({
   build: {
     minify: false,
   },
-  plugins: [arc({ flags: ["variant"] })],
+  plugins: [arc({ flags: ["variant", "another"] })],
 });
 
